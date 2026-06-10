@@ -18,6 +18,8 @@ Prepare for the Red Hat Certified Engineer in Ansible exam (EX294) with a struct
 
 ### 1. [RHCE Ansible 준비 과정 (EX294)](https://labex.io/ko/courses/rhce-ansible-prep)
 
+[![RHCE Ansible 준비 과정 (EX294)](https://course-cover.labex.io/rhce-ansible-prep.png?lang=ko)](https://labex.io/ko/courses/rhce-ansible-prep)
+
 Ansible 프로젝트 기초부터 인벤토리, 플레이북, 역할 (Role), 컬렉션, 그리고 실무 RHEL 자동화까지 30 개의 가이드형 실험으로 구성된 초보자 맞춤형 RHCE Ansible 준비 과정입니다.
 
 [코스 시작](https://labex.io/ko/courses/rhce-ansible-prep) · 실습: 30
@@ -79,6 +81,8 @@ Ansible 프로젝트 기초부터 인벤토리, 플레이북, 역할 (Role), 컬
 
 ### 2. [RHCE in Ansible 실전 모의고사 01](https://labex.io/ko/courses/rhce-ansible-practice-exam-01)
 
+[![RHCE in Ansible 실전 모의고사 01](https://course-cover.labex.io/rhce-ansible-practice-exam-01.png?lang=ko)](https://labex.io/ko/courses/rhce-ansible-practice-exam-01)
+
 Ansible 프로젝트 설정, 인벤토리, 플레이북, 변수, 템플릿, Vault, 역할 (Roles), 컬렉션 및 RHEL 관리 자동화를 다루는 14 개의 독립적인 자동화 과제로 구성된 실습형 RHCE in Ansible 모의고사입니다.
 
 [코스 시작](https://labex.io/ko/courses/rhce-ansible-practice-exam-01) · 실습: 14
@@ -123,6 +127,8 @@ Ansible 프로젝트 설정, 인벤토리, 플레이북, 변수, 템플릿, Vaul
 |     3 | 🎯  다중 호스트 관리 상태 자동화      | 초급    | [도전 시작](https://labex.io/ko/labs/rhel-automate-multi-host-administration-state-664404?course=rhce-ansible-practice-exam-01)  |
 
 ### 3. [RHCE in Ansible 실전 모의고사 02](https://labex.io/ko/courses/rhce-ansible-practice-exam-02)
+
+[![RHCE in Ansible 실전 모의고사 02](https://course-cover.labex.io/rhce-ansible-practice-exam-02.png?lang=ko)](https://labex.io/ko/courses/rhce-ansible-practice-exam-02)
 
 Ansible 설정, 인벤토리, 플레이북 신뢰성, 템플릿, Vault, 역할 (Roles), 컬렉션 및 RHEL 관리 자동화를 다루는 14 개의 독립적인 자동화 챌린지로 구성된 두 번째 RHCE in Ansible 실전 모의고사입니다.
 
