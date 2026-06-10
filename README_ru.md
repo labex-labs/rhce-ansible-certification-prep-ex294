@@ -18,6 +18,8 @@ Prepare for the Red Hat Certified Engineer in Ansible exam (EX294) with a struct
 
 ### 1. [Подготовка к RHCE Ansible (EX294)](https://labex.io/ru/courses/rhce-ansible-prep)
 
+[![Подготовка к RHCE Ansible (EX294)](https://course-cover.labex.io/rhce-ansible-prep.png?lang=ru)](https://labex.io/ru/courses/rhce-ansible-prep)
+
 Курс по подготовке к экзамену RHCE Ansible для начинающих, включающий 30 практических заданий: от основ проектов Ansible до работы с инвентарем, плейбуками, ролями, коллекциями и автоматизации RHEL.
 
 [Начать Курс](https://labex.io/ru/courses/rhce-ansible-prep) · Лаборатории: 30
@@ -79,6 +81,8 @@ Prepare for the Red Hat Certified Engineer in Ansible exam (EX294) with a struct
 
 ### 2. [Практический экзамен №1 по RHCE и Ansible](https://labex.io/ru/courses/rhce-ansible-practice-exam-01)
 
+[![Практический экзамен №1 по RHCE и Ansible](https://course-cover.labex.io/rhce-ansible-practice-exam-01.png?lang=ru)](https://labex.io/ru/courses/rhce-ansible-practice-exam-01)
+
 Практический экзамен по RHCE и Ansible, состоящий из 14 независимых заданий по автоматизации. Включает настройку проектов Ansible, инвентаризацию, плейбуки, переменные, шаблоны, Vault, роли, коллекции и автоматизацию администрирования RHEL.
 
 [Начать Курс](https://labex.io/ru/courses/rhce-ansible-practice-exam-01) · Лаборатории: 14
@@ -123,6 +127,8 @@ Prepare for the Red Hat Certified Engineer in Ansible exam (EX294) with a struct
 |        3 | 🎯  Автоматизация состояния администрирования для нескольких хостов | Начинающий  | [Начать Испытание](https://labex.io/ru/labs/rhel-automate-multi-host-administration-state-664404?course=rhce-ansible-practice-exam-01)  |
 
 ### 3. [Практический экзамен №2 по RHCE и Ansible](https://labex.io/ru/courses/rhce-ansible-practice-exam-02)
+
+[![Практический экзамен №2 по RHCE и Ansible](https://course-cover.labex.io/rhce-ansible-practice-exam-02.png?lang=ru)](https://labex.io/ru/courses/rhce-ansible-practice-exam-02)
 
 Второй практический экзамен по RHCE и Ansible, включающий 14 независимых заданий по автоматизации. Темы охватывают настройку Ansible, инвентаризацию, надежность плейбуков, шаблоны, Vault, роли, коллекции и автоматизацию администрирования RHEL.
 
