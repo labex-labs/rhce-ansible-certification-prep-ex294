@@ -18,6 +18,8 @@
 
 ### 1. [RHCE Ansible 备考指南 (EX294)](https://labex.io/zh/courses/rhce-ansible-prep)
 
+[![RHCE Ansible 备考指南 (EX294)](https://course-cover.labex.io/rhce-ansible-prep.png?lang=zh)](https://labex.io/zh/courses/rhce-ansible-prep)
+
 这是一门面向初学者的 RHCE Ansible 备考课程，包含 30 个引导式实验，内容涵盖从 Ansible 项目基础到清单、Playbook、角色、集合以及 RHEL 自动化应用等各个方面。
 
 [开始课程](https://labex.io/zh/courses/rhce-ansible-prep) · 实验: 30
@@ -79,6 +81,8 @@
 
 ### 2. [RHCE Ansible 实战模拟考试 01](https://labex.io/zh/courses/rhce-ansible-practice-exam-01)
 
+[![RHCE Ansible 实战模拟考试 01](https://course-cover.labex.io/rhce-ansible-practice-exam-01.png?lang=zh)](https://labex.io/zh/courses/rhce-ansible-practice-exam-01)
+
 这是一场包含 14 个独立自动化挑战的 RHCE Ansible 实战模拟考试，涵盖了 Ansible 项目设置、清单、Playbook、变量、模板、Vault、角色、集合以及 RHEL 系统管理自动化等核心内容。
 
 [开始课程](https://labex.io/zh/courses/rhce-ansible-practice-exam-01) · 实验: 14
@@ -123,6 +127,8 @@
 |    3 | 🎯  自动化多主机管理状态   | 初级   | [开始挑战](https://labex.io/zh/labs/rhel-automate-multi-host-administration-state-664404?course=rhce-ansible-practice-exam-01)  |
 
 ### 3. [RHCE Ansible 实战模拟考试 02](https://labex.io/zh/courses/rhce-ansible-practice-exam-02)
+
+[![RHCE Ansible 实战模拟考试 02](https://course-cover.labex.io/rhce-ansible-practice-exam-02.png?lang=zh)](https://labex.io/zh/courses/rhce-ansible-practice-exam-02)
 
 这是第二套 RHCE Ansible 实战模拟考试，包含 14 个独立的自动化挑战，涵盖了 Ansible 配置、清单管理、Playbook 可靠性、模板、Vault 加密、角色（Roles）、集合（Collections）以及 RHEL 系统管理自动化等核心内容。
 
