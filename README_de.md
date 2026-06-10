@@ -18,6 +18,8 @@ Prepare for the Red Hat Certified Engineer in Ansible exam (EX294) with a struct
 
 ### 1. [RHCE Ansible Vorbereitung (EX294)](https://labex.io/de/courses/rhce-ansible-prep)
 
+[![RHCE Ansible Vorbereitung (EX294)](https://course-cover.labex.io/rhce-ansible-prep.png?lang=de)](https://labex.io/de/courses/rhce-ansible-prep)
+
 Ein einsteigerfreundlicher Vorbereitungskurs für die RHCE-Ansible-Zertifizierung mit 30 geführten Experimenten, die von den Grundlagen eines Ansible-Projekts bis hin zu Inventaren, Playbooks, Rollen, Collections und der angewandten RHEL-Automatisierung reichen.
 
 [Kurs Starten](https://labex.io/de/courses/rhce-ansible-prep) · Labs: 30
@@ -79,6 +81,8 @@ Ein einsteigerfreundlicher Vorbereitungskurs für die RHCE-Ansible-Zertifizierun
 
 ### 2. [RHCE in Ansible Übungsprüfung 01](https://labex.io/de/courses/rhce-ansible-practice-exam-01)
 
+[![RHCE in Ansible Übungsprüfung 01](https://course-cover.labex.io/rhce-ansible-practice-exam-01.png?lang=de)](https://labex.io/de/courses/rhce-ansible-practice-exam-01)
+
 Eine praxisorientierte RHCE-Übungsprüfung für Ansible mit 14 unabhängigen Automatisierungs-Herausforderungen. Die Themen umfassen die Einrichtung von Ansible-Projekten, Inventories, Playbooks, Variablen, Templates, Vault, Rollen, Collections sowie die Automatisierung der RHEL-Administration.
 
 [Kurs Starten](https://labex.io/de/courses/rhce-ansible-practice-exam-01) · Labs: 14
@@ -123,6 +127,8 @@ Eine praxisorientierte RHCE-Übungsprüfung für Ansible mit 14 unabhängigen Au
 |       3 | 🎯  Automatisierung des Administrationsstatus für mehrere Hosts         | Anfänger        | [Challenge Starten](https://labex.io/de/labs/rhel-automate-multi-host-administration-state-664404?course=rhce-ansible-practice-exam-01)  |
 
 ### 3. [RHCE in Ansible Übungsprüfung 02](https://labex.io/de/courses/rhce-ansible-practice-exam-02)
+
+[![RHCE in Ansible Übungsprüfung 02](https://course-cover.labex.io/rhce-ansible-practice-exam-02.png?lang=de)](https://labex.io/de/courses/rhce-ansible-practice-exam-02)
 
 Eine zweite praxisorientierte RHCE in Ansible-Übungsprüfung mit 14 unabhängigen Automatisierungs-Herausforderungen. Diese decken Ansible-Konfiguration, Inventare, Playbook-Zuverlässigkeit, Templates, Vault, Rollen, Collections sowie die Automatisierung der RHEL-Administration ab.
 
