@@ -18,6 +18,8 @@ Prepare for the Red Hat Certified Engineer in Ansible exam (EX294) with a struct
 
 ### 1. [Preparatório RHCE Ansible (EX294)](https://labex.io/pt/courses/rhce-ansible-prep)
 
+[![Preparatório RHCE Ansible (EX294)](https://course-cover.labex.io/rhce-ansible-prep.png?lang=pt)](https://labex.io/pt/courses/rhce-ansible-prep)
+
 Um curso preparatório para o RHCE Ansible voltado para iniciantes, com 30 experimentos guiados que abrangem desde os fundamentos de projetos Ansible até inventários, playbooks, roles, collections e automação aplicada ao RHEL.
 
 [Iniciar Curso](https://labex.io/pt/courses/rhce-ansible-prep) · Labs: 30
@@ -79,6 +81,8 @@ Um curso preparatório para o RHCE Ansible voltado para iniciantes, com 30 exper
 
 ### 2. [Exame Prático de RHCE em Ansible 01](https://labex.io/pt/courses/rhce-ansible-practice-exam-01)
 
+[![Exame Prático de RHCE em Ansible 01](https://course-cover.labex.io/rhce-ansible-practice-exam-01.png?lang=pt)](https://labex.io/pt/courses/rhce-ansible-practice-exam-01)
+
 Um exame prático e prático de RHCE em Ansible com 14 desafios de automação independentes, abrangendo configuração de projetos Ansible, inventários, playbooks, variáveis, modelos, Vault, roles, collections e automação de administração RHEL.
 
 [Iniciar Curso](https://labex.io/pt/courses/rhce-ansible-practice-exam-01) · Labs: 14
@@ -123,6 +127,8 @@ Um exame prático e prático de RHCE em Ansible com 14 desafios de automação i
 |        3 | 🎯  Automatizar o Estado de Administração Multi-Host | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/rhel-automate-multi-host-administration-state-664404?course=rhce-ansible-practice-exam-01)  |
 
 ### 3. [Exame Prático 02 de RHCE em Ansible](https://labex.io/pt/courses/rhce-ansible-practice-exam-02)
+
+[![Exame Prático 02 de RHCE em Ansible](https://course-cover.labex.io/rhce-ansible-practice-exam-02.png?lang=pt)](https://labex.io/pt/courses/rhce-ansible-practice-exam-02)
 
 Um segundo exame prático prático de RHCE em Ansible com 14 desafios de automação independentes, abrangendo configuração de Ansible, inventários, confiabilidade de playbooks, templates, Vault, roles, collections e automação de administração RHEL.
 
