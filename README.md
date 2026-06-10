@@ -18,6 +18,8 @@ Prepare for the Red Hat Certified Engineer in Ansible exam (EX294) with a struct
 
 ### 1. [RHCE Ansible Prep (EX294)](https://labex.io/courses/rhce-ansible-prep)
 
+[![RHCE Ansible Prep (EX294)](https://course-cover.labex.io/rhce-ansible-prep.png)](https://labex.io/courses/rhce-ansible-prep)
+
 A beginner-friendly RHCE Ansible preparation course with 30 guided labs arranged from Ansible project foundations to inventory, playbooks, roles, collections, and applied RHEL automation.
 
 [Start Course](https://labex.io/courses/rhce-ansible-prep) · Labs: 30
@@ -79,6 +81,8 @@ A beginner-friendly RHCE Ansible preparation course with 30 guided labs arranged
 
 ### 2. [RHCE in Ansible Practice Exam 01](https://labex.io/courses/rhce-ansible-practice-exam-01)
 
+[![RHCE in Ansible Practice Exam 01](https://course-cover.labex.io/rhce-ansible-practice-exam-01.png)](https://labex.io/courses/rhce-ansible-practice-exam-01)
+
 A hands-on RHCE in Ansible practice exam with 14 independent automation challenges covering Ansible project setup, inventories, playbooks, variables, templates, Vault, roles, collections, and RHEL administration automation.
 
 [Start Course](https://labex.io/courses/rhce-ansible-practice-exam-01) · Labs: 14
@@ -123,6 +127,8 @@ A hands-on RHCE in Ansible practice exam with 14 independent automation challeng
 |       3 | 🎯  Automate Multi-Host Administration State  | Beginner     | [Start Challenge](https://labex.io/labs/rhel-automate-multi-host-administration-state-664404?course=rhce-ansible-practice-exam-01)  |
 
 ### 3. [RHCE in Ansible Practice Exam 02](https://labex.io/courses/rhce-ansible-practice-exam-02)
+
+[![RHCE in Ansible Practice Exam 02](https://course-cover.labex.io/rhce-ansible-practice-exam-02.png)](https://labex.io/courses/rhce-ansible-practice-exam-02)
 
 A second hands-on RHCE in Ansible practice exam with 14 independent automation challenges covering Ansible configuration, inventories, playbook reliability, templates, Vault, roles, collections, and RHEL administration automation.
 
